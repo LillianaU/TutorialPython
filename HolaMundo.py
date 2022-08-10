@@ -1,0 +1,1 @@
+print("primer ejemplo de python y es HOla MUNDO")
